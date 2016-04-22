@@ -1,9 +1,10 @@
 
-LIST OF MEMBERS FOR TEAM 125  Evan Douglas
+LIST OF MEMBERS FOR TEAM
 
  
 Brandon Lexa
  
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 Evan Douglas
@@ -13,6 +14,9 @@ Emperor Palpatine
 =======
 Evan Douglas
 >>>>>>> parent of 17fa0aa... Sith?
+=======
+Emperor Palpatine
+>>>>>>> origin/master
  
 Monica Abdelmalek
 

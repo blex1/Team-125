@@ -1,11 +1,16 @@
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 LIST OF MEMBERS FOR TEAM 125
 
+<<<<<<< HEAD
 Flex
 =======
 LIST OF MEMBERS FOR TEAM
 >>>>>>> parent of 883b840... blex
+=======
+Boba Lexa
+>>>>>>> parent of 9b24790... Flex
 
 =======
 LIST OF MEMBERS FOR TEAM 125

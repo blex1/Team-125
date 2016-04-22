@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 LIST OF MEMBERS FOR TEAM 125 brandon lexa
+=======
+LIST OF MEMBERS FOR TEAM 125  Evan Douglas
+>>>>>>> origin/master
  
 Brandon Lexa
  
@@ -6,4 +10,4 @@ Emperor Palpatine
  
 Monica Abdelmalek
 
-Zixiao guo  nn 
+Zixiao guo 

@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 
 LIST OF MEMBERS FOR TEAM
 
+=======
+LIST OF MEMBERS FOR TEAM 125
+>>>>>>> parent of 114098f... name add
  
 Brandon Lexa
  

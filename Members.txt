@@ -1,9 +1,31 @@
 
+<<<<<<< HEAD
 LIST OF MEMBERS FOR TEAM 125
 
 Flex
+=======
+LIST OF MEMBERS FOR TEAM
+>>>>>>> parent of 883b840... blex
 
+=======
+LIST OF MEMBERS FOR TEAM 125
+>>>>>>> parent of 114098f... name add
+ 
+Brandon Lexa
+ 
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+Evan Douglas
+=======
 Emperor Palpatine
+>>>>>>> parent of 950b2db... Change
+=======
+Evan Douglas
+>>>>>>> parent of 17fa0aa... Sith?
+=======
+Emperor Palpatine
+>>>>>>> origin/master
  
 Monica Abdelmalek
 
